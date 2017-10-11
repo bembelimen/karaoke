@@ -1,34 +1,34 @@
 // change this if you want to change the default list of topics
 var topics = {
 	"FML": [
-		"Updating Joomla broke my site",
+		"Updating Drupal broke my site",
 		"The last book you read",
-		"I broke Joomla",
+		"I broke Drupal",
 		"I forgot my password",
-    "Because of Joomla I have no life",
-    "Lost in Translation",
-    "I need it now!!",
-    "I work from home"
-    ],
+    		"Because of Drupal I have no life",
+    		"Lost in Translation",
+    		"I need it now!!",
+    		"I work from home"
+    		],
    "Community": [
-		"Joomla is my family",
-    "Joomla User Groups",
-    "My first Joomla event",
-    "JoomlaDay UK",
-    "Beer",
-    "Team Work",
-    "Leadership",
-    "Online Communication"
-   ] ,
-	"Joomla": [
+		"Drupal is my family",
+   		"NWDUG",
+    		"My first Drupal event",
+    		"Unconference",
+    		"Beer",
+   		"Team Work",
+    		"Leadership",
+    		"Online Communication"
+   		] ,
+	"Drupal": [
 		"Automated Testing",
 		"Backups",
-    "I use Joomla because...",
-    "Updating Joomla broke my site",
+    		"I use Drupal because...",
+    		"Updating Drupal broke my site",
 		"Living the 'Dream'",
-    "My Favourite Extension",
-		"Make money with Joomla",
-		"Joomla 4 will be...",
+  	  	"My Favourite Module",
+		"Make money with Drupal",
+		"Drupal 9 will be...",
     	]
 };
 
