@@ -1,0 +1,31 @@
+{
+	"name": "Karaoke",
+	"version": "1.0.0",
+	"keywords": [
+		"util",
+		"functional",
+		"server",
+		"client",
+		"browser"
+	],
+	"author": "Benjamin Trenkle",
+	"contributors": [],
+	"dependencies": {},
+	"devDependencies": {
+		"autoprefixer": "^9.3.1",
+		"browser-sync": "^2.26.3",
+		"cssnano": "^4.1.7",
+		"del": "^3.0.0",
+		"gulp": "^3.9.1",
+		"gulp-inject": "^5.0.0",
+		"gulp-postcss": "^8.0.0",
+		"gulp-rename": "^1.4.0",
+		"gulp-rev": "^9.0.0",
+		"gulp-sass": "^4.0.2",
+		"gulp-sourcemaps": "^2.6.4",
+		"gulp-uglify": "^3.0.1",
+		"postcss-sorting": "^4.0.1",
+		"run-sequence": "^2.2.1",
+		"sass": "^1.15.1"
+	}
+}

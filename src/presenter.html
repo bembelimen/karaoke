@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Presentation Karaoke</title>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<!-- inject:css -->
+		<!-- endinject -->
+	</head>
+	<body>
+		<div id="karaoke-intro" class="wrapper">
+
+			<select id="karaoke-category">
+
+			</select>
+
+			<div id="karaoke-duration-wrapper">
+			<input id="karaoke-duration" list="karoke-durations" type="range" min="0.5" max="5.0" step="0.5" value="1">
+			<div id="karaoke-duration-label"></div>
+			</div>
+
+			<div id="karaoke-select-button">
+				<button type="button">Auswählen</button>
+			</div>
+
+		</div>
+		<div id="karaoke-ready" class="wrapper">
+			<h1 id="karaoke-topic"></h1>
+
+
+			<div id="karaoke-play-buttons">
+				<button type="button" id="karaoke-reselect-button"><span>Neu würfeln</span></button>
+				<button type="button" id="karaoke-play-button"><span>Los gehts!</span></button>
+			</div>
+		</div>
+		<div id="karaoke-play" class="wrapper">
+			<div id="karaoke-images">
+
+			</div>
+		</div>
+		<div id="karaoke-end" class="wrapper">
+			<div>Vielen Dank!</div>
+		</div>
+		<!-- inject:js -->
+		<!-- endinject -->
+	</body>
+</html>
